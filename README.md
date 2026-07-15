@@ -77,10 +77,13 @@ I love solving real-world problems by building powerful, scalable, and user-frie
 
 🚧 A glimpse of what I’m working on:  
 
-- 🗓️ **To-Do Planner** – A customizable planner with templates *(React, Node.js, MongoDB)*  
-- 🏥 **Hospital Management System** – End-to-end management system built for academics *(ReactJS, SQL)*  
-- 📊 **PresenceIQ (AI Driven Web Based Automated Attendance Tracker)** – AI-powered attendance using facial recognition *(Django, OpenCV, InsightFace)*  
-- 🖥️ **Personal Desktop Assistant** – Voice-enabled desktop assistant to open apps, browse web, send emails, fetch weather/news, and perform automation tasks *(Python, SpeechRecognition, pyttsx3, NLP, OpenCV)*  
+- ☁️ **Samyukt** – Intelligent Cloud-Based Collaborative Version Control & Software Maintenance Platform featuring AI-assisted merge conflict resolution and real-time collaboration *(React, Node.js, Express.js, MongoDB, Docker, Git, Cloud Computing)*  
+- 🤖 **CodeGenie** – Multi-Agent AI Coding Assistant that generates complete software projects from natural language prompts using Planner, Architect, Coder, and Reviewer agents *(Python, LangGraph, Groq API, Streamlit, LLMs)*  
+- 📊 **PresenceIQ (AI Driven Web Based Automated Attendance Tracker)** – AI-powered attendance management system using facial recognition with role-based dashboards *(Django REST Framework, React, MongoDB, OpenCV, InsightFace)*  
+- 🏥 **Hospital Management System** – End-to-end healthcare management system with patient, doctor, nurse, and admin dashboards *(React.js, Node.js, Express.js, MySQL, Sequelize, Material UI)*  
+- 🖥️ **Personal Desktop Assistant** – Voice-enabled desktop assistant to open applications, browse the web, send emails, fetch weather/news, and automate daily tasks *(Python, SpeechRecognition, pyttsx3, NLP, OpenCV)*  
+- 🗓️ **To-Do Planner** – A customizable productivity planner with templates and task management features *(React, Node.js, MongoDB)*
+   
 
 ---
 
