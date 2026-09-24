@@ -26,7 +26,7 @@
 
 ## 🚀 Featured Projects
 
-### [Samyukt](https://github.com/sumitverma21/Samyukt) — Intelligent VCS Platform &nbsp; `Patent-Pending`
+### [Samyukt](https://github.com/sumitverma21/Samyukt) — Intelligent VCS Platform &nbsp; 
 > *B.Tech Final Year Project · Node.js · Express · MongoDB · Docker · LLM/NLP*
 
 - Spearheaded the **AI engine and backend architecture** for an intelligent version control platform underlying a filed **Patent Application** as Co-Inventor
@@ -36,7 +36,7 @@
 
 ---
 
-### [Audit Trail](https://github.com/sumitverma21/audit-trail-team14) — Event-Sourced Inventory Ledger &nbsp; `Internship`
+### [Audit Trail](https://github.com/sumitverma21/audit-trail-team14) — Event-Sourced Inventory Ledger &nbsp; 
 > *MERN Stack · CQRS · Event Sourcing · MongoDB · React · Node.js*
 
 - Built an **immutable event-sourced ledger** for logistics tracking — every state change is an append-only event, never overwritten
@@ -67,7 +67,7 @@
 
 ---
 
-### [SyncSpace](https://github.com/sumitverma21/syncspace-team14) — Real-Time Collaborative Workspace &nbsp; `Internship`
+### [SyncSpace](https://github.com/sumitverma21/syncspace-team14) — Real-Time Collaborative Workspace &nbsp; 
 > *React · Node.js · Socket.io · Yjs CRDT · Monaco Editor · MongoDB*
 
 - Multi-user **whiteboard canvas + concurrent code editing** with sub-50ms sync
@@ -116,10 +116,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitverma21&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitverma21&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitverma21&theme=github-dark-blue&hide_border=true" />
