@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI/ML Engineer · Generative AI · Full-Stack Developer</b><br/>
-  <i>B.Tech AI & ML · Bangalore Technological Institute · 1BH23AI032</i>
+  <i>B.Tech AI & ML</i>
 </p>
 
 <p align="center">
